@@ -31,3 +31,54 @@
   font-weight: 300;
   font-style: normal;
 }
+
+/* General */
+
+:root {
+  --color-primary: #151515;
+  --color-grey-light: #efefef;
+  --color-grey-dark: #dadad9;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: "latoregular", sans-serif;
+  line-height: 1;
+  font-weight: 400;
+  color: var(--color-primary);
+  background-color: var(--color-grey-light);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  max-width: 128rem;
+  padding: 0 2rem;
+  margin: 0 auto;
+}
+
+/* Header */
+
+/* Hero */
+
+/* Footer */
