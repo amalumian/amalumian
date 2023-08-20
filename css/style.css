@@ -1,0 +1,33 @@
+/* Fonts */
+
+@font-face {
+  font-family: "latoblack";
+  src: url("../fonts/woff2/lato-black-webfont.woff2") format("woff2"),
+    url("../fonts/woff/lato-black-webfont.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "latobold";
+  src: url("../fonts/woff2/lato-bold-webfont.woff2") format("woff2"),
+    url("../fonts/woff/lato-bold-webfont.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "latoregular";
+  src: url("../fonts/woff2/lato-regular-webfont.woff2") format("woff2"),
+    url("../fonts/woff/lato-regular-webfont.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "latolight";
+  src: url("../fonts/woff2/lato-light-webfont.woff2") format("woff2"),
+    url("../fonts/woff/lato-light-webfont.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
