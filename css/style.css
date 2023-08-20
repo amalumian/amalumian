@@ -152,6 +152,7 @@ li {
 }
 
 .hero__specialization {
+  padding: 0 0 1rem 0;
   font-family: "latoregular";
   font-size: 5.2rem;
 }
