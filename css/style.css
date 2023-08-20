@@ -36,6 +36,7 @@
 
 :root {
   --color-primary: #151515;
+  --color-primary-light: #5b5b5b;
   --color-grey-light: #efefef;
   --color-grey-dark: #dadad9;
 }
@@ -50,11 +51,13 @@
 }
 
 html {
+  height: 100%;
   font-size: 62.5%;
   overflow-x: hidden;
 }
 
 body {
+  height: 100%;
   font-family: "latoregular", sans-serif;
   line-height: 1;
   font-weight: 400;
@@ -71,14 +74,126 @@ ul {
   list-style: none;
 }
 
-.container {
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
   max-width: 128rem;
   padding: 0 2rem;
   margin: 0 auto;
 }
 
+/* Main */
+
+.main {
+  flex: 1 1 auto;
+}
+
 /* Header */
+
+.header {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.header__logo {
+  font-family: "latoblack";
+  font-size: 9.8rem;
+  text-transform: uppercase;
+}
 
 /* Hero */
 
+.hero {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: 2rem;
+  border-radius: 2rem;
+  background-color: var(--color-grey-dark);
+}
+
+.hero__image-box {
+  flex: 1 1 0;
+  padding: 2rem;
+  border-radius: 1rem;
+  background-color: var(--color-primary);
+}
+
+.hero__image {
+  border-radius: 1rem;
+  width: 100%;
+}
+
+.hero__content {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 6rem 0;
+}
+
+.hero__title {
+  font-family: "latobold";
+  font-size: 6.2rem;
+}
+
+.hero__specialization {
+  font-family: "latoregular";
+  font-size: 5.2rem;
+}
+
+.hero__location {
+  font-family: "latolight";
+  font-size: 3.6rem;
+}
+
+.hero__resume {
+  font-family: "latoregular";
+  font-size: 3.6rem;
+  text-decoration: underline;
+  transition: color 0.6s cubic-bezier(0, 0.55, 0.45, 1);
+}
+
+.hero__resume:hover {
+  color: var(--color-primary-light);
+}
+
+.hero__list {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+}
+
+.hero__item {
+  width: 4.8rem;
+  height: 4.8rem;
+}
+
+.hero__link {
+  display: block;
+}
+
+.hero__link svg {
+  width: 100%;
+  height: 100%;
+  transition: fill 0.6s cubic-bezier(0, 0.55, 0.45, 1);
+}
+
+.hero__link svg:hover {
+  fill: var(--color-primary-light);
+}
+
 /* Footer */
+
+.footer {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.copyright {
+  font-family: latolight;
+  font-size: 2rem;
+}
