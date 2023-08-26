@@ -6,8 +6,8 @@ Inspired by Computer Science.
 
 - 🌍 I'm based in Novosibirsk, Russia
 - 🖥️ See [my website](https://www.amalumian.ru)
-- ✉️  You can contact me at [amalumian@outlook.com](mailto:amalumian@outlook.com)
-- 🚀 I'm currently improving my knowledge in React
+- 📧 You can contact me at [amalumian@outlook.com](mailto:amalumian@outlook.com)
+<!-- - 🚀 I'm currently improving my knowledge in React -->
 
 ## Skills
 
