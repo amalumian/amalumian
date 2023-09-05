@@ -10,7 +10,7 @@ Inspired by Computer Science.
 
 📧 You can contact me at [amalumian@outlook.com](mailto:amalumian@outlook.com)
 
-<!-- 🚀 I'm currently improving my knowledge in React -->
+🚀 I'm currently improving my knowledge in CS
 
 <div align="left">
   <a href="https://github.com/amalumian" target="_blank">
