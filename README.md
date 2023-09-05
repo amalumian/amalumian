@@ -1,13 +1,25 @@
-# Hi , I'm Arthur Malumian
+# I'm Arthur Malumian
 
 Inspired by Computer Science.
 
 ## Frontend Developer
 
-- 🌍 I'm based in Novosibirsk, Russia
-- 🖥️ See [my website](https://www.amalumian.ru)
-- 📧 You can contact me at [amalumian@outlook.com](mailto:amalumian@outlook.com)
-<!-- - 🚀 I'm currently improving my knowledge in React -->
+🌍 I'm based in Novosibirsk, Russia
+
+🖥️ See [my website](https://www.amalumian.ru)
+
+📧 You can contact me at [amalumian@outlook.com](mailto:amalumian@outlook.com)
+
+<!-- 🚀 I'm currently improving my knowledge in React -->
+
+<div align="left">
+  <a href="https://github.com/amalumian" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+  </a>
+  <a href="https://linkedin.com/in/amalumian" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
+  </a>
+</div>
 
 ## Skills
 
@@ -38,16 +50,5 @@ Inspired by Computer Science.
   </a>
   <a href="https://git-scm.com" target="_blank"> 
     <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-  </a>
-</div>
-
-## Socials
-
-<div align="left">
-  <a href="https://github.com/amalumian" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
-  </a>
-  <a href="https://linkedin.com/in/amalumian" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
   </a>
 </div>
