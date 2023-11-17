@@ -17,4 +17,4 @@ Inspired by Computer Science.
 
 ## Skills
 
-![Skills](https://skillicons.dev/icons?i=react,redux,ts,js,sass,css,html,webpack,git&theme=light)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,ts,js,sass,css,html,webpack,git&theme=light)](https://www.amalumian.ru)
