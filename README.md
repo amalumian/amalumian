@@ -12,6 +12,8 @@ Inspired by Computer Science.
 
 🚀 I'm currently improving my knowledge in CS
 
+📄 My [resume.pdf](https://raw.githubusercontent.com/amalumian/amalumian/main/resume.pdf)
+
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,ts,js,sass,css,html,webpack,git&theme=light)](https://www.amalumian.ru)
