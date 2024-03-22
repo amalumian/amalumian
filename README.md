@@ -12,9 +12,10 @@ Inspired by Computer Science.
 
 🚀 I'm currently improving my knowledge in CS
 
-[![Github Link](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/amalumian)
-[![LinkedIn Link](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/amalumian)
-
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,ts,js,sass,css,html,webpack,git&theme=light)](https://www.amalumian.ru)
+
+## Links
+
+[![LinkedIn Link](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/amalumian)
