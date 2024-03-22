@@ -10,9 +10,9 @@ Inspired by Computer Science.
 
 📧 You can contact me at [amalumian@outlook.com](mailto:amalumian@outlook.com)
 
-🚀 I'm currently improving my knowledge in CS
-
 📄 My [resume.pdf](https://raw.githubusercontent.com/amalumian/amalumian/main/resume.pdf)
+
+🚀 I'm currently improving my knowledge in CS
 
 ## Skills
 
