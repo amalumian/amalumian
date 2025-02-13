@@ -6,7 +6,7 @@ A programmer who loves web technologies.
 
 📄 [resume.pdf](https://www.malumian.dev/pdf/resume.pdf)
 
-📧 [amalumian.dev@gmail.com](mailto:amalumian.dev@gmail.com)
+📧 [arthurmalumian@gmail.com](mailto:arthurmalumian@gmail.com)
 
 ## Languages
 
