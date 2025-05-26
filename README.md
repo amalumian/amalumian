@@ -10,8 +10,8 @@ A programmer who loves web technologies.
 
 ## Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amalumian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amalumian&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Stats
 
-[![Arthur Malumian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amalumian)](https://github.com/anuraghazra/github-readme-stats)
+[![Arthur Malumian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amalumian&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
