@@ -2,7 +2,7 @@
 
 A programmer who loves web technologies.
 
-💻 [Blog](https://www.malumian.dev)
+💻 [Website](https://www.malumian.dev)
 
 📄 [resume.pdf](https://www.malumian.dev/pdf/resume.pdf)
 
