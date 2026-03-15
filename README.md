@@ -1,6 +1,6 @@
 # Arthur Malumian
 
-A programmer who loves web technologies.
+A software engineer who loves web technologies.
 
 💻 [Website](https://www.malumian.dev)
 
